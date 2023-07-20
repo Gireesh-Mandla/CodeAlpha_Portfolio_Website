@@ -2,14 +2,14 @@
 # Portfolio Website
 
 ### Click below to view my portfolio website
-[Click Here](https://github.com/Gireesh-Mandla/CodeAlpha_Portfolio_Website/tree/main)
+[Click Here](https://github.com/Gireesh-Mandla/CodeAlpha_Portfolio_Website)
 
 ## An attractive portfolio website with lucid information flow for Developers!
 
 
 <p align="center"> 
   <kbd>
-  	<a href="https://github.com/Gireesh-Mandla/CodeAlpha_Portfolio_Website/tree/main" target="_blank">
+  	<a href="https://github.com/Gireesh-Mandla/CodeAlpha_Portfolio_Website" target="_blank">
 		<img src="image.png"></img>
 	</a>
   </kbd>
