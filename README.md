@@ -15,6 +15,6 @@
   </kbd>
 </p>
 
-Good Luck! :+1: 
+Good Luck! :+1::
 
 :e-mail: gireeshmandla143@gmail.com
